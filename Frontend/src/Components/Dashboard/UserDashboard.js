@@ -19,6 +19,7 @@ const UserDashboard = () => {
       </div>
       <title>User Dashboard</title>
       <div>You are logged in</div>
+      <div className="m-3">heloo my name is user</div>
       <Footer />
     </>
   );
